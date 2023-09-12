@@ -1160,6 +1160,14 @@ section {
   right: 6%;
   border-radius: 3px 0 0 3px;
 }
+.btn{
+  color: white;
+  background-color: black;
+}
+.btn:hover{
+  color: black;
+  background-color:#149ddd;
+}
 
 
 /* On hover, add a black background color with a little bit see-through */
